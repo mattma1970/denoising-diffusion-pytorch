@@ -130,3 +130,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# project specific exclusions
+*.jpg
+checkpoints/*
+list_*
+wandb/*
+*.zip
+*.pt
+*.csv
+*.gif
